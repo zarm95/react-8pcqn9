@@ -10,7 +10,7 @@ const contactInfo = [
     email: "johana@mail.com",
     phone: "25554444",
   },
-  { name: "emanuel", email: "emanuel@mail.com", phone: "25554444" },
+  { name: "emanuel", email: "emanuel@mail.com", phone: "25554444" ,      isDeletable:true},
   { name: "lucas", email: "lucas@mail.com", phone: "25554444" },
   { name: "Marie", email: "marie@mail.com", phone: "25554444" },
   { name: "Pedro", email: "johana@mail.com", phone: "25554444" },
